@@ -1,7 +1,7 @@
 ## CS 569 - Introdcution to Web Development with Ruby on Rails
 
 
-### Markdown
+### Module 1
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
