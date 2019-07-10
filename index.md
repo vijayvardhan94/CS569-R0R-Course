@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## CS 569 - Introdcution to Web Development with Ruby on Rails
 
 You can use the [editor on GitHub](https://github.com/vijayvardhan94/CS569.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
